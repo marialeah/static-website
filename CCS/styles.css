@@ -1,0 +1,30 @@
+<style> @import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Nerko+One&display=swap');
+body {
+    background-color: black;
+    font-family: 'Bree Serif', serif;
+    color:#425F57
+}
+h1, h2 {
+color:black;
+color:aqua
+}
+p{
+color:rgb(182, 255, 127)
+}
+#my-naruto {
+width: 200px;
+    border-radius: 50%
+}
+#content{
+text-align: center;
+}
+#my-name{
+    font-family: 'Nerko One', cursive;
+color:#749F82
+}
+
+
+
+
+
+
