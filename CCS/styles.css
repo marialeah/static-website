@@ -22,9 +22,35 @@ text-align: center;
     font-family: 'Nerko One', cursive;
 color:#749F82
 }
+#left-side {
+    width: 49%
+    display: inline;
+}
+#right-side{
+width: 50%
+display:inline-block;
+text-align:right;
+}
+a{
+    color: cadetblue;
+    text-decoration: none;
+    border-color:1px rgb(95, 140, 160);
+}
+header{
+    margin-top: 20px;
+}
+.nav-link {
+    margin-left: 20%;
+}
 
-
-
-
-
-
+footer{
+    background-color: aquamarine;
+    position: absolute;
+    bottom: 0;
+    left: 50%;
+    transform: :translate(-50%);
+    margin-bottom: 16px;
+}
+footer a:first-child {
+    margin-right: 16px;
+}
